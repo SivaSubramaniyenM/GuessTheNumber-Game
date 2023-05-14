@@ -1,1 +1,3 @@
 # GuessTheNumber-Game
+
+Guess the Number is a classic game where one player thinks of a random number within a specified range, and the other player attempts to guess that number within a certain number of tries. The game typically follows a back-and-forth pattern of guesses and responses until the correct number is guessed or the maximum number of attempts is reached.Guess the Number is a fun and engaging game that tests logical thinking, deductive reasoning, and intuition. It can be played in various settings, including as a pen-and-paper game, through interactive online platforms, or even as a coding project to enhance programming skills.
